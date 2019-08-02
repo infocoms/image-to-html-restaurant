@@ -1,0 +1,237 @@
+html,
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+}
+
+ul {
+    text-transform: uppercase;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+
+li a:hover {
+    background-color: #ba9555;
+}
+
+.tit {
+    float: left;
+}
+
+.resbtn {
+    border: 2px solid #C99446;
+}
+
+.logo {
+    background-image: url("Group.png");
+    width: auto;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+nav {
+    letter-spacing: 3px;
+    padding-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+}
+
+.name {
+    margin: auto;
+    text-align: center;
+    width: 800px;
+    height: 300px;
+}
+
+.f {
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    font-size: 100px;
+    font-weight: bold;
+    color: #f2f2f2;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.w {
+    letter-spacing: 2px;
+    margin-top: 180px;
+    margin-bottom: 0;
+    font-size: 60px;
+    color: #C99446;
+    font-family: 'Pinyon Script', cursive;
+}
+
+.medi {
+
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #f2f2f2;
+    margin-top: 0;
+}
+
+.menu {
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+}
+
+.image {
+    margin-top: -30px;
+    border: 2px solid #C99446;
+    border-image-outset: 2px;
+    width: 350px;
+    height: 425px;
+}
+
+.image img {
+    margin-left: 30px;
+    margin-top: 28px;
+    border-image-outset: 2px;
+    width: 350px;
+    height: 425px;
+}
+
+.text {
+    padding-left: 200px;
+    padding-top: 80px;
+    text-align: left;
+    width: 500px;
+    height: 380px;
+}
+
+.contentname {
+    letter-spacing: 2px;
+    margin-top: 1px;
+    margin-bottom: 0;
+    font-size: 50px;
+    color: #C99446;
+    font-family: 'Pinyon Script', cursive;
+}
+
+span {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: burlywood;
+    font-size: 60px;
+    margin-bottom: 0;
+    margin-top: 0;
+
+}
+
+.contentsubname {
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+    font-size: 30px;
+    letter-spacing: 5px;
+    margin-top: 0;
+}
+
+.text a {
+    color: #C99446;
+    text-decoration: none;
+}
+
+.contenttext {
+    color: grey;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 0;
+}
+
+.text2 {
+    padding-right: 200px;
+    padding-top: 80px;
+    text-align: left;
+    width: 500px;
+    height: 380px;
+}
+
+.text2 a {
+    color: #C99446;
+    text-decoration: none;
+}
+
+.image2 {
+    margin-top: -30px;
+    border: 2px solid #C99446;
+    border-image-outset: 2px;
+    width: 350px;
+    height: 425px;
+}
+
+.image2 img {
+    margin-left: -30px;
+    margin-top: 28px;
+    border-image-outset: 2px;
+    width: 350px;
+    height: 425px;
+}
+
+.menureal {
+    display: flex;
+    justify-content: center;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+}
+
+.textmenu {
+    padding-top: 80px;
+    text-align: center;
+    width: 700px;
+    height: 380px;
+}
+
+.menuoptions{
+    letter-spacing: 3px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.menuoptions ul {
+    display: inline-block;
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.menuoptions li {
+    text-align: center;
+}
+.menuoptions li a {
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+.menuoptions li a:hover {
+    background-color: #ba9555;
+}
